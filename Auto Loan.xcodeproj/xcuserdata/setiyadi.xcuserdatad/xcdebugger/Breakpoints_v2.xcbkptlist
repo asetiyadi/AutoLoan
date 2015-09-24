@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ParseStarterProject/LoanParameterTableViewController.swift"
-            timestampString = "464676398.502179"
+            timestampString = "464717961.872437"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "LoanParameterTableViewController"
             landmarkType = "3">
          </BreakpointContent>

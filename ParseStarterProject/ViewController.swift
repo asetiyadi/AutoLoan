@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         //militarySwitch.transform = CGAffineTransformMakeScale(0.75, 0.75)
-        
     }
 
     override func didReceiveMemoryWarning() {
